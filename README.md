@@ -6,7 +6,7 @@
 docker-compose up
 ```
 
-# Run Tests.
+## Run Tests.
 
 ```bash
 ./runtests.sh
