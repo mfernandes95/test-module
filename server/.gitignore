@@ -1,0 +1,16 @@
+node_modules
+# .env
+
+yarn.lock
+yarn-error.log
+
+postgres/
+
+coverage
+
+database.sqlite
+
+tmp/*
+!tmp/.gitkeep
+
+dist
